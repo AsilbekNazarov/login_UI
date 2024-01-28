@@ -1,0 +1,47 @@
+/* .continer {
+  background-color: blue;
+  color: white;
+  text-align: center;
+  height: 100px;
+  line-height: 100px;
+  font-size: 20px;
+  margin-top: 1px;
+} */
+/* section {
+  background-color: blue;
+  color: white;
+  height: 500px;
+  text-align: center;
+  margin-top: 1px;
+  line-height: 500px;
+  width: 70%;
+  float: left;
+} */
+/* aside {
+  text-align: center;
+  height: 500px;
+  margin-top: 1px;
+  background-color: blue;
+  color: white;
+  float: left;
+  width: 30%;
+  line-height: 500px;
+} */
+/* .box {
+  height: 100px;
+  text-align: center;
+  float: left;
+  line-height: 100px;
+  width: 100%;
+  background-color: blue;
+  color: white;
+  margin-top: 1px;
+} */
+.continer {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+header {
+  text-align: center;
+}

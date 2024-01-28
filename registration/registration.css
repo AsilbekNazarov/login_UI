@@ -1,0 +1,50 @@
+body {
+  background-image: url(./fon.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: Arial, Helvetica, sans-serif;
+  background-repeat: no-repeat;
+  margin: 100px;
+  padding: 20px;
+}
+.continer {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.358);
+  backdrop-filter: blur(15px);
+  background: rgba(255, 255, 255, 0.207);
+}
+h1 {
+  font-size: 30px;
+  text-align: center;
+  color: #1b1f34;
+  animation: puls 1.5s infinite;
+}
+h3 {
+  font-size: 18px;
+
+  color: #1b1f34;
+  animation: puls 1.5s infinite;
+}
+input,
+textarea {
+  width: 370px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #092408;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0);
+}
+button {
+  padding: 10px 20px;
+  background-color: rgb(100, 100, 194);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: rgb(48, 48, 98);
+}
